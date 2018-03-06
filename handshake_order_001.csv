@@ -1,0 +1,3 @@
+customer,order_date,orderID,customer_po,start_ship_date,cancel_date,ship_method,notes,sku,qty,description,unit_price,unit_discount,customer_id,payment_terms,source,externalOrderID,original_unit_price
+SAMPLE ACCOUNT,2/19/18,5001,,,,TBD,,43001,48,GIANT MEMO BLOCK (TWO ASST.),3.55,0,HS-0772,H1,user,,3.55
+SAMPLE ACCOUNT,2/19/18,5001,,,,TBD,,43008,12,GIANT MEMO BLOCK W PEN (GRAPHICS),3.55,0,HS-0772,H1,user,,3.55
